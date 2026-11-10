@@ -19,7 +19,7 @@ Each sauce has one note per language, with the same name and the language code b
 
 Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce>.jpg`). Only freely licensed photos from Wikimedia Commons are used (public domain, CC0, CC BY or CC BY-SA), and each recipe credits the author and license.
 
-- **Drink photos:** no free photo of the finished dish was found for *Salsa al Pedro Ximénez*, *Salsa al vermut blanco*, *Salsa al vermut rojo*, so their notes show the drink itself instead, and say so.
+- **Drink photos:** no free photo of the finished dish was found for *Salsa a la cerveza*, *Salsa al Pedro Ximénez*, *Salsa al vermut blanco*, *Salsa al vermut rojo*, so their notes show the drink itself instead, and say so.
 - **Hidden in Notas-Rust:** every photo is marked `color=hidden` in its folder's `desktop.ini`, so the board shows only the notes and the photo appears inside them. Use «Mostrar las ocultas» (Alt+H) to show the photos on the board.
 
 | Letter | Español | English | Photo license |
@@ -28,7 +28,9 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | A | [Salsa al ajillo](a/ajillo.es.md) | [Spanish garlic and white wine sauce](a/ajillo.en.md) | CC BY-SA 4.0 |
 | A | [Alioli (allioli)](a/alioli.es.md) | [Garlic and olive oil emulsion](a/alioli.en.md) | Public domain |
 | A | [Almogrote gomero](a/almogrote.es.md) | [La Gomera aged cheese spread](a/almogrote.en.md) | CC BY-SA 2.0 |
+| B | [Salsa al brandy](b/brandy.es.md) | [Brandy mushroom cream sauce](b/brandy.en.md) | CC BY 2.0 |
 | B | [Salsa brava](b/brava.es.md) | [Spicy paprika sauce](b/brava.en.md) | CC BY 2.0 |
+| C | [Salsa a la cerveza](c/cerveza.es.md) | [Beer braising sauce](c/cerveza.en.md) | CC BY-SA 4.0 |
 | C | [Salsa chilindrón](c/chilindron.es.md) | [Red pepper, tomato and ham sauce](c/chilindron.en.md) | CC BY-SA 3.0 |
 | E | [Salsa española](e/espanola.es.md) | [Classic brown sauce](e/espanola.en.md) | CC BY-SA 3.0 |
 | J | [Salsa al jerez](j/jerez.es.md) | [Sherry sauce](j/jerez.en.md) | CC BY-SA 4.0 |
@@ -40,7 +42,9 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | P | [Salsa en pepitoria](p/pepitoria.es.md) | [Almond, saffron and white wine sauce](p/pepitoria.en.md) | CC BY-SA 3.0 |
 | P | [Picada catalana](p/picada.es.md) | [Catalan nut and garlic paste](p/picada.en.md) | CC BY-SA 4.0 |
 | P | [Salsa pil-pil](p/pil-pil.es.md) | [Basque olive oil and salt cod emulsion](p/pil-pil.en.md) | CC BY 2.0 |
+| P | [Salsa a la pimienta](p/pimienta.es.md) | [Peppercorn brandy cream sauce](p/pimienta.en.md) | CC BY-SA 4.0 |
 | R | [Salsa romesco](r/romesco.es.md) | [Catalan roasted pepper and nut sauce](r/romesco.en.md) | Public domain |
+| R | [Salsa rosa](r/rosa.es.md) | [Spanish cocktail sauce](r/rosa.en.md) | CC BY-SA 4.0 |
 | S | [Samfaina](s/samfaina.es.md) | [Catalan summer vegetable stew](s/samfaina.en.md) | Public domain |
 | S | [Salsa a la sidra](s/sidra.es.md) | [Asturian cider sauce](s/sidra.en.md) | CC BY 2.0 |
 | S | [Sofrito](s/sofrito.es.md) | [Spanish sofrito](s/sofrito.en.md) | CC BY 2.0 |
