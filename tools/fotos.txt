@@ -5,6 +5,7 @@ alioli busquedas/candidatos-01.json alioli 2
 almendras busquedas/candidatos-12.json almendras 2
 almogrote busquedas/candidatos-01.json almogrote 1
 amatriciana busquedas/candidatos-16.json amatriciana 1
+apfelkren busquedas/candidatos-19.json apfelkren 4
 avgolemono busquedas/candidatos-17.json avgolemono 1
 bearnaise busquedas/candidatos-16.json bearnaise 0
 bechamel busquedas/candidatos-16.json bechamel 0
@@ -16,13 +17,17 @@ carbonara busquedas/candidatos-16.json carbonara 2
 cerveza busquedas/candidatos-09.json cerveza 2
 char-siu busquedas/candidatos-18.json char-siu 0
 chilindron busquedas/candidatos-01.json chilindron 1
+cumberland busquedas/candidatos-19.json cumberland 0
 espanola busquedas/candidatos-01.json espanola 0
+francesinha busquedas/candidatos-19.json francesinha 2
 goma-ae busquedas/candidatos-13.json goma-ae 0
 goma-dare busquedas/candidatos-13.json goma-dare 3
+gruene-sosse busquedas/candidatos-19.json gruene-sosse 3
 guacamole busquedas/candidatos-15.json guacamole 2
 gyoza busquedas/candidatos-13.json gyoza 5
 hoisin busquedas/candidatos-18.json hoisin 4
 hollandaise busquedas/candidatos-16.json hollandaise 5
+hovmastarsas busquedas/candidatos-19.json hovmastarsas 0
 idiazabal busquedas/candidatos-14.json idiazabal 0
 jengibre-cebolleta busquedas/candidatos-18.json jengibre-cebolleta 1
 jerez busquedas/candidatos-06.json jerez 0
@@ -33,6 +38,7 @@ mahonesa busquedas/candidatos-01.json mahonesa 0
 marinera busquedas/candidatos-02.json marinera 0
 melitzanosalata busquedas/candidatos-17.json melitzanosalata 0
 membrillo busquedas/candidatos-10.json membrillo 0
+mint-sauce busquedas/candidatos-19.json mint-sauce 0
 miso-dare busquedas/candidatos-14.json miso-dare 0
 mojo-almendras = almendras
 mojo-picon busquedas/candidatos-01.json mojo-picon 2
@@ -66,6 +72,7 @@ taramosalata busquedas/candidatos-17.json taramosalata 0
 teriyaki busquedas/candidatos-14.json teriyaki 1
 tinta busquedas/candidatos-01.json tinta 1
 tirokafteri busquedas/candidatos-17.json tirokafteri 1
+tkemali busquedas/candidatos-19.json tkemali 5
 tomate-frito busquedas/candidatos-01.json tomate-frito 0
 tomatillo busquedas/candidatos-15.json tomatillo 4
 tonkatsu busquedas/candidatos-14.json tonkatsu 5

@@ -10,7 +10,7 @@ type: Index
 ---
 # recetas-de-salsas--Sauce recipes
 
-Sauce recipes: mostly **Spanish sauces**, plus some **Japanese**, mild **Mexican**, **Italian**, **French**, **Greek** and mild **Chinese** ones. They are sorted into one subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese, Italian, French and Greek sauces keep their own name (*goma dare* goes in `g/goma-dare`, *béarnaise* in `b/bearnaise`), and so do Chinese ones with a well-known name (*hoisin* goes in `h/hoisin`); the rest go under their Spanish name (*salsa agridulce* in `a/agridulce`).
+Sauce recipes: mostly **Spanish sauces**, plus some **Japanese**, mild **Mexican**, **Italian**, **French**, **Greek**, mild **Chinese** and other **European** ones. They are sorted into one subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese, Italian, French, Greek and other European sauces keep their own name (*goma dare* goes in `g/goma-dare`, *béarnaise* in `b/bearnaise`), and so do Chinese ones with a well-known name (*hoisin* goes in `h/hoisin`); the rest go under their Spanish name (*salsa agridulce* in `a/agridulce`).
 
 Each sauce has one note per language, with the same name and the language code before `.md`:
 
@@ -19,13 +19,14 @@ Each sauce has one note per language, with the same name and the language code b
 
 Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce>.jpg`). Only freely licensed photos from Wikimedia Commons are used (public domain, CC0, CC BY or CC BY-SA), and each recipe credits the author and license.
 
-- **Vegan and alcohol-free:** *Salsa agridulce*, *Salsa de almendras*, *Guacamole*, *Salsa hoisin*, *Salsa de jengibre y cebolleta*, *Salsa de judías negras*, *Lactonesa (mahonesa vegana)*, *Ladolémono*, *Melitzanosalata*, *Alioli de membrillo (allioli de codony)*, *Mojo de almendras*, *Negi shio dare (salsa de cebolleta y sésamo)*, *Pico de gallo (salsa mexicana)*, *Salsa de piquillos*, *Salsa al pomodoro*, *Salsa ranchera*, *Salsa de setas vegana*, *Skordaliá*, *Salsa verde de tomatillo*, *Aliño wafu (vinagreta japonesa)*, *Salsa de sésamo china (zhimajiang)* (tagged `vegana` and `sin-alcohol`).
+- **Vegan and alcohol-free:** *Salsa agridulce*, *Salsa de almendras*, *Apfelkren*, *Guacamole*, *Salsa hoisin*, *Salsa de jengibre y cebolleta*, *Salsa de judías negras*, *Lactonesa (mahonesa vegana)*, *Ladolémono*, *Melitzanosalata*, *Alioli de membrillo (allioli de codony)*, *Mint sauce (salsa inglesa de menta)*, *Mojo de almendras*, *Negi shio dare (salsa de cebolleta y sésamo)*, *Pico de gallo (salsa mexicana)*, *Salsa de piquillos*, *Salsa al pomodoro*, *Salsa ranchera*, *Salsa de setas vegana*, *Skordaliá*, *Tkemali (salsa georgiana de ciruela)*, *Salsa verde de tomatillo*, *Aliño wafu (vinagreta japonesa)*, *Salsa de sésamo china (zhimajiang)* (tagged `vegana` and `sin-alcohol`).
 - **Japanese:** *Salsa japonesa de cacahuete*, *Aliño goma-ae (sésamo para verduras)*, *Goma dare (salsa japonesa de sésamo)*, *Salsa para gyozas (gyoza no tare)*, *Miso dare (salsa dengaku)*, *Negi shio dare (salsa de cebolleta y sésamo)*, *Ponzu (salsa japonesa de cítricos)*, *Salsa teriyaki*, *Salsa tonkatsu con sésamo*, *Aliño wafu (vinagreta japonesa)*, *Salsa yakiniku (yakiniku no tare)* (tagged `japon`).
 - **Mexican, mild:** *Guacamole*, *Mole poblano*, *Pico de gallo (salsa mexicana)*, *Pipián verde*, *Salsa ranchera*, *Salsa verde de tomatillo* (tagged `mexico` and `poco-picante`; the chile is optional or seeded).
 - **Italian:** *Salsa amatriciana*, *Salsa carbonara*, *Pesto genovés (pesto alla genovese)*, *Salsa al pomodoro*, *Salsa puttanesca*, *Ragú a la boloñesa (ragù alla bolognese)* (tagged `italia`).
 - **French:** *Salsa bearnesa (sauce béarnaise)*, *Bechamel (sauce béchamel)*, *Beurre blanc (mantequilla blanca)*, *Salsa holandesa (sauce hollandaise)*, *Salsa Mornay (sauce Mornay)*, *Salsa velouté* (tagged `francia`).
 - **Greek:** *Salsa avgolémono*, *Ladolémono*, *Melitzanosalata*, *Skordaliá*, *Taramosalata*, *Tirokafterí*, *Tzatziki* (tagged `grecia`).
 - **Chinese, mild:** *Salsa agridulce*, *Salsa char siu*, *Salsa hoisin*, *Salsa de jengibre y cebolleta*, *Salsa de judías negras*, *Salsa de sésamo china (zhimajiang)* (tagged `china` and `poco-picante`; none of them has chile).
+- **Other European:** *Apfelkren*, *Salsa Cumberland*, *Salsa de francesinha*, *Grüne Soße (salsa verde de Fráncfort)*, *Hovmästarsås (salsa de mostaza y eneldo)*, *Mint sauce (salsa inglesa de menta)*, *Tkemali (salsa georgiana de ciruela)* (tagged `europa` and their country).
 - **Drink or ingredient photos:** no free photo of the finished dish was found for *Salsa de almendras*, *Salsa japonesa de cacahuete*, *Salsa a la cerveza*, *Salsa de queso Idiazábal*, *Salsa de judías negras*, *Mojo de almendras*, *Salsa al moscatel con pasas y piñones*, *Salsa al Pedro Ximénez*, *Salsa de piquillos*, *Salsa al vermut blanco*, *Salsa al vermut rojo*, *Salsa de sésamo china (zhimajiang)*, so their notes show the drink or main ingredient instead, and say so.
 - **Hidden in Notas-Rust:** every photo is marked `color=hidden` in its folder's `desktop.ini`, so the board shows only the notes and the photo appears inside them. Use «Mostrar las ocultas» (Alt+H) to show the photos on the board.
 
@@ -38,6 +39,7 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | A | [Salsa de almendras](a/almendras.es.md) | [Spanish almond sauce](a/almendras.en.md) | CC BY 3.0 |
 | A | [Almogrote gomero](a/almogrote.es.md) | [La Gomera aged cheese spread](a/almogrote.en.md) | CC BY-SA 2.0 |
 | A | [Salsa amatriciana](a/amatriciana.es.md) | [Amatriciana sauce](a/amatriciana.en.md) | CC0 |
+| A | [Apfelkren](a/apfelkren.es.md) | [Apfelkren (apple horseradish)](a/apfelkren.en.md) | CC BY-SA 4.0 |
 | A | [Salsa avgolémono](a/avgolemono.es.md) | [Avgolemono sauce](a/avgolemono.en.md) | CC BY 4.0 |
 | B | [Salsa bearnesa (sauce béarnaise)](b/bearnaise.es.md) | [Béarnaise sauce](b/bearnaise.en.md) | CC BY-SA 4.0 |
 | B | [Bechamel (sauce béchamel)](b/bechamel.es.md) | [Béchamel sauce](b/bechamel.en.md) | CC BY-SA 4.0 |
@@ -49,13 +51,17 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | C | [Salsa a la cerveza](c/cerveza.es.md) | [Beer braising sauce](c/cerveza.en.md) | CC BY-SA 4.0 |
 | C | [Salsa char siu](c/char-siu.es.md) | [Char siu sauce](c/char-siu.en.md) | CC0 |
 | C | [Salsa chilindrón](c/chilindron.es.md) | [Red pepper, tomato and ham sauce](c/chilindron.en.md) | CC BY-SA 3.0 |
+| C | [Salsa Cumberland](c/cumberland.es.md) | [Cumberland sauce](c/cumberland.en.md) | CC BY-SA 2.0 |
 | E | [Salsa española](e/espanola.es.md) | [Classic brown sauce](e/espanola.en.md) | CC BY-SA 3.0 |
+| F | [Salsa de francesinha](f/francesinha.es.md) | [Francesinha sauce](f/francesinha.en.md) | CC BY-SA 4.0 |
 | G | [Aliño goma-ae (sésamo para verduras)](g/goma-ae.es.md) | [Japanese sesame dressing for greens](g/goma-ae.en.md) | CC0 |
 | G | [Goma dare (salsa japonesa de sésamo)](g/goma-dare.es.md) | [Japanese sesame sauce](g/goma-dare.en.md) | CC BY-SA 3.0 |
+| G | [Grüne Soße (salsa verde de Fráncfort)](g/gruene-sosse.es.md) | [Frankfurt green sauce (Grüne Soße)](g/gruene-sosse.en.md) | CC0 |
 | G | [Guacamole](g/guacamole.es.md) | [Guacamole](g/guacamole.en.md) | CC BY 4.0 |
 | G | [Salsa para gyozas (gyoza no tare)](g/gyoza.es.md) | [Gyoza dipping sauce](g/gyoza.en.md) | CC BY-SA 4.0 |
 | H | [Salsa hoisin](h/hoisin.es.md) | [Hoisin sauce](h/hoisin.en.md) | CC BY-SA 4.0 |
 | H | [Salsa holandesa (sauce hollandaise)](h/hollandaise.es.md) | [Hollandaise sauce](h/hollandaise.en.md) | CC BY-SA 3.0 |
+| H | [Hovmästarsås (salsa de mostaza y eneldo)](h/hovmastarsas.es.md) | [Hovmästarsås (mustard dill sauce)](h/hovmastarsas.en.md) | CC BY-SA 3.0 |
 | I | [Salsa de queso Idiazábal](i/idiazabal.es.md) | [Idiazábal cheese sauce](i/idiazabal.en.md) | CC BY-SA 3.0 |
 | J | [Salsa de jengibre y cebolleta](j/jengibre-cebolleta.es.md) | [Ginger scallion sauce](j/jengibre-cebolleta.en.md) | CC BY 2.0 |
 | J | [Salsa al jerez](j/jerez.es.md) | [Sherry sauce](j/jerez.en.md) | CC BY-SA 4.0 |
@@ -66,6 +72,7 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | M | [Salsa marinera](m/marinera.es.md) | [Spanish seafood sauce](m/marinera.en.md) | CC BY 3.0 |
 | M | [Melitzanosalata](m/melitzanosalata.es.md) | [Melitzanosalata](m/melitzanosalata.en.md) | CC BY-SA 3.0 |
 | M | [Alioli de membrillo (allioli de codony)](m/membrillo.es.md) | [Quince and garlic aioli](m/membrillo.en.md) | CC BY-SA 4.0 |
+| M | [Mint sauce (salsa inglesa de menta)](m/mint-sauce.es.md) | [Mint sauce](m/mint-sauce.en.md) | CC BY-SA 2.0 |
 | M | [Miso dare (salsa dengaku)](m/miso-dare.es.md) | [Sweet miso glaze](m/miso-dare.en.md) | CC BY-SA 2.0 |
 | M | [Mojo de almendras](m/mojo-almendras.es.md) | [Canarian almond mojo](m/mojo-almendras.en.md) | CC BY 3.0 |
 | M | [Mojo picón (mojo rojo)](m/mojo-picon.es.md) | [Canarian red pepper sauce](m/mojo-picon.en.md) | CC BY 2.0 |
@@ -99,6 +106,7 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | T | [Salsa teriyaki](t/teriyaki.es.md) | [Teriyaki sauce](t/teriyaki.en.md) | CC0 |
 | T | [Salsa de tinta de calamar](t/tinta.es.md) | [Squid ink sauce](t/tinta.en.md) | CC BY 2.0 |
 | T | [Tirokafterí](t/tirokafteri.es.md) | [Tirokafteri](t/tirokafteri.en.md) | CC BY 2.0 |
+| T | [Tkemali (salsa georgiana de ciruela)](t/tkemali.es.md) | [Tkemali (Georgian plum sauce)](t/tkemali.en.md) | CC BY 2.0 |
 | T | [Tomate frito casero](t/tomate-frito.es.md) | [Homemade Spanish tomato sauce](t/tomate-frito.en.md) | CC BY 3.0 |
 | T | [Salsa verde de tomatillo](t/tomatillo.es.md) | [Green tomatillo salsa](t/tomatillo.en.md) | CC BY-SA 2.0 |
 | T | [Salsa tonkatsu con sésamo](t/tonkatsu.es.md) | [Tonkatsu sauce with sesame](t/tonkatsu.en.md) | CC BY 2.0 |

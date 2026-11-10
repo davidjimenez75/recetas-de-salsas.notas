@@ -579,5 +579,54 @@
   "license": "CC0",
   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "artist": "Fumikas Sagisavas"
+ },
+ "apfelkren": {
+  "title": "File:Heuriger Zum Renner Tafelspitz Apfelkren.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Heuriger_Zum_Renner_Tafelspitz_Apfelkren.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Geolina163"
+ },
+ "cumberland": {
+  "title": "File:Duck confit crepes with Cumberland sauce.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Duck_confit_crepes_with_Cumberland_sauce.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "Daniel Sexton"
+ },
+ "francesinha": {
+  "title": "File:FrancesinhaNoPorto.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:FrancesinhaNoPorto.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "DgOlsen"
+ },
+ "gruene-sosse": {
+  "title": "File:Grüne Soße, Rüdesheim.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gr%C3%BCne_So%C3%9Fe,_R%C3%BCdesheim.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "Gerda Arendt"
+ },
+ "hovmastarsas": {
+  "title": "File:Gravlax med hovmästarsås.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gravlax_med_hovm%C3%A4stars%C3%A5s.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "Tomas er"
+ },
+ "mint-sauce": {
+  "title": "File:Mint Sauce.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mint_Sauce.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "rjp"
+ },
+ "tkemali": {
+  "title": "File:Red and brown tkemali.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_and_brown_tkemali.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "artist": "Jelger Groeneveld"
  }
 }
