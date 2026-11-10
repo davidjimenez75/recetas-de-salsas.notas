@@ -19,6 +19,9 @@ Each sauce has one note per language, with the same name and the language code b
 
 Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce>.jpg`). Only freely licensed photos from Wikimedia Commons are used (public domain, CC0, CC BY or CC BY-SA), and each recipe credits the author and license.
 
+- **Drink photos:** no free photo of the finished dish was found for *Salsa al Pedro Ximénez*, *Salsa al vermut blanco*, *Salsa al vermut rojo*, so their notes show the drink itself instead, and say so.
+- **Hidden in Notas-Rust:** every photo is marked `color=hidden` in its folder's `desktop.ini`, so the board shows only the notes and the photo appears inside them. Use «Mostrar las ocultas» (Alt+H) to show the photos on the board.
+
 | Letter | Español | English | Photo license |
 | --- | --- | --- | --- |
 | A | [Ajada gallega](a/ajada.es.md) | [Galician garlic and paprika oil](a/ajada.en.md) | CC BY 2.0 |
