@@ -488,5 +488,54 @@
   "license": "CC BY-SA 3.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
   "artist": "Roozitaa"
+ },
+ "avgolemono": {
+  "title": "File:Avgolemono - Sarah Stierch.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Avgolemono_-_Sarah_Stierch.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "artist": "Missvain"
+ },
+ "ladolemono": {
+  "title": "File:Ladolemono for the fish.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ladolemono_for_the_fish.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "FocalPoint"
+ },
+ "melitzanosalata": {
+  "title": "File:Eggplant salad.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Eggplant_salad.JPG",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "Badseed"
+ },
+ "skordalia": {
+  "title": "File:Skordalia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Skordalia.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "Amymoni"
+ },
+ "taramosalata": {
+  "title": "File:Taramosalata01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Taramosalata01.jpg",
+  "license": "CC BY-SA 2.5",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+  "artist": "Robert Kindermann"
+ },
+ "tirokafteri": {
+  "title": "File:Tirokafteri.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tirokafteri.jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "artist": "Alexander Baxevanis"
+ },
+ "tzatziki": {
+  "title": "File:Tzatziki meze or appetizer, also used as a sauce.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tzatziki_meze_or_appetizer,_also_used_as_a_sauce.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "Nikodem Nijaki"
  }
 }

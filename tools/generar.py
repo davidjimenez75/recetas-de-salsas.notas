@@ -91,9 +91,9 @@ def readme():
     L = ["---", "id: recetas-de-salsas", "status: active", "tags:", "  - cooking", "  - recipes",
          "  - sauces", "title: recetas-de-salsas--Sauce recipes", "type: Index", "---",
          "# recetas-de-salsas--Sauce recipes", "",
-         "Sauce recipes: mostly **Spanish sauces**, plus some **Japanese**, mild **Mexican**, **Italian** and **French** ones. They are sorted into one "
+         "Sauce recipes: mostly **Spanish sauces**, plus some **Japanese**, mild **Mexican**, **Italian**, **French** and **Greek** ones. They are sorted into one "
          "subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without "
-         "the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese, Italian and French sauces keep their own name "
+         "the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese, Italian, French and Greek sauces keep their own name "
          "(*goma dare* goes in `g/goma-dare`, *béarnaise* in `b/bearnaise`).", "",
          "Each sauce has one note per language, with the same name and the language code before `.md`:", "",
          "- `<sauce>.es.md`: in Spain Spanish (`lang: es_ES`).",
@@ -116,6 +116,9 @@ def readme():
          "- **French:** "
          + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "francia" in s["tags_es"])
          + " (tagged `francia`).",
+         "- **Greek:** "
+         + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "grecia" in s["tags_es"])
+         + " (tagged `grecia`).",
          "- **Drink or ingredient photos:** no free photo of the finished dish was found for "
          + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "La foto muestra" in s["es"]["intro"])
          + ", so their notes show the drink or main ingredient instead, and say so.",

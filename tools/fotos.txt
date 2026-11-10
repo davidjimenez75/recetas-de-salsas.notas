@@ -4,6 +4,7 @@ alioli busquedas/candidatos-01.json alioli 2
 almendras busquedas/candidatos-12.json almendras 2
 almogrote busquedas/candidatos-01.json almogrote 1
 amatriciana busquedas/candidatos-16.json amatriciana 1
+avgolemono busquedas/candidatos-17.json avgolemono 1
 bearnaise busquedas/candidatos-16.json bearnaise 0
 bechamel busquedas/candidatos-16.json bechamel 0
 beurre-blanc busquedas/candidatos-16.json beurre-blanc 2
@@ -22,8 +23,10 @@ hollandaise busquedas/candidatos-16.json hollandaise 5
 idiazabal busquedas/candidatos-14.json idiazabal 0
 jerez busquedas/candidatos-06.json jerez 0
 lactonesa busquedas/candidatos-10.json lactonesa 0
+ladolemono busquedas/candidatos-17.json latholemono 0
 mahonesa busquedas/candidatos-01.json mahonesa 0
 marinera busquedas/candidatos-02.json marinera 0
+melitzanosalata busquedas/candidatos-17.json melitzanosalata 0
 membrillo busquedas/candidatos-10.json membrillo 0
 miso-dare busquedas/candidatos-14.json miso-dare 0
 mojo-almendras = almendras
@@ -52,12 +55,16 @@ rosa busquedas/candidatos-08.json rosa 1
 samfaina busquedas/candidatos-01.json samfaina 0
 setas busquedas/candidatos-10.json setas 0
 sidra busquedas/candidatos-06.json sidra-manzana 2
+skordalia busquedas/candidatos-17.json skordalia 0
 sofrito busquedas/candidatos-01.json sofrito 4
+taramosalata busquedas/candidatos-17.json taramosalata 0
 teriyaki busquedas/candidatos-14.json teriyaki 1
 tinta busquedas/candidatos-01.json tinta 1
+tirokafteri busquedas/candidatos-17.json tirokafteri 1
 tomate-frito busquedas/candidatos-01.json tomate-frito 0
 tomatillo busquedas/candidatos-15.json tomatillo 4
 tonkatsu busquedas/candidatos-14.json tonkatsu 5
+tzatziki busquedas/candidatos-17.json tzatziki 1
 veloute busquedas/candidatos-16.json veloute 1
 verde busquedas/candidatos-01.json verde 2
 vermut-blanco busquedas/candidatos-04.json vermut-blanco 0
