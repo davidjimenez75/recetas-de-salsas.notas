@@ -91,7 +91,7 @@ def readme():
     L = ["---", "id: recetas-de-salsas", "status: active", "tags:", "  - cooking", "  - recipes",
          "  - sauces", "title: recetas-de-salsas--Sauce recipes", "type: Index", "---",
          "# recetas-de-salsas--Sauce recipes", "",
-         "Sauce recipes: mostly **Spanish sauces**, plus some **Japanese** ones. They are sorted into one "
+         "Sauce recipes: mostly **Spanish sauces**, plus some **Japanese** and mild **Mexican** ones. They are sorted into one "
          "subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without "
          "the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese sauces keep their Japanese name "
          "(*goma dare* goes in `g/goma-dare`).", "",
@@ -107,6 +107,9 @@ def readme():
          "- **Japanese:** "
          + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "japon" in s["tags_es"])
          + " (tagged `japon`).",
+         "- **Mexican, mild:** "
+         + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "mexico" in s["tags_es"])
+         + " (tagged `mexico` and `poco-picante`; the chile is optional or seeded).",
          "- **Drink or ingredient photos:** no free photo of the finished dish was found for "
          + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "La foto muestra" in s["es"]["intro"])
          + ", so their notes show the drink or main ingredient instead, and say so.",

@@ -10,7 +10,7 @@ type: Index
 ---
 # recetas-de-salsas--Sauce recipes
 
-Sauce recipes: mostly **Spanish sauces**, plus some **Japanese** ones. They are sorted into one subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese sauces keep their Japanese name (*goma dare* goes in `g/goma-dare`).
+Sauce recipes: mostly **Spanish sauces**, plus some **Japanese** and mild **Mexican** ones. They are sorted into one subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese sauces keep their Japanese name (*goma dare* goes in `g/goma-dare`).
 
 Each sauce has one note per language, with the same name and the language code before `.md`:
 
@@ -19,8 +19,9 @@ Each sauce has one note per language, with the same name and the language code b
 
 Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce>.jpg`). Only freely licensed photos from Wikimedia Commons are used (public domain, CC0, CC BY or CC BY-SA), and each recipe credits the author and license.
 
-- **Vegan and alcohol-free:** *Salsa de almendras*, *Lactonesa (mahonesa vegana)*, *Alioli de membrillo (allioli de codony)*, *Mojo de almendras*, *Negi shio dare (salsa de cebolleta y sésamo)*, *Salsa de piquillos*, *Salsa de setas vegana*, *Aliño wafu (vinagreta japonesa)* (tagged `vegana` and `sin-alcohol`).
+- **Vegan and alcohol-free:** *Salsa de almendras*, *Guacamole*, *Lactonesa (mahonesa vegana)*, *Alioli de membrillo (allioli de codony)*, *Mojo de almendras*, *Negi shio dare (salsa de cebolleta y sésamo)*, *Pico de gallo (salsa mexicana)*, *Salsa de piquillos*, *Salsa ranchera*, *Salsa de setas vegana*, *Salsa verde de tomatillo*, *Aliño wafu (vinagreta japonesa)* (tagged `vegana` and `sin-alcohol`).
 - **Japanese:** *Salsa japonesa de cacahuete*, *Aliño goma-ae (sésamo para verduras)*, *Goma dare (salsa japonesa de sésamo)*, *Salsa para gyozas (gyoza no tare)*, *Miso dare (salsa dengaku)*, *Negi shio dare (salsa de cebolleta y sésamo)*, *Ponzu (salsa japonesa de cítricos)*, *Salsa teriyaki*, *Salsa tonkatsu con sésamo*, *Aliño wafu (vinagreta japonesa)*, *Salsa yakiniku (yakiniku no tare)* (tagged `japon`).
+- **Mexican, mild:** *Guacamole*, *Mole poblano*, *Pico de gallo (salsa mexicana)*, *Pipián verde*, *Salsa ranchera*, *Salsa verde de tomatillo* (tagged `mexico` and `poco-picante`; the chile is optional or seeded).
 - **Drink or ingredient photos:** no free photo of the finished dish was found for *Salsa de almendras*, *Salsa japonesa de cacahuete*, *Salsa a la cerveza*, *Salsa de queso Idiazábal*, *Mojo de almendras*, *Salsa al moscatel con pasas y piñones*, *Salsa al Pedro Ximénez*, *Salsa de piquillos*, *Salsa al vermut blanco*, *Salsa al vermut rojo*, so their notes show the drink or main ingredient instead, and say so.
 - **Hidden in Notas-Rust:** every photo is marked `color=hidden` in its folder's `desktop.ini`, so the board shows only the notes and the photo appears inside them. Use «Mostrar las ocultas» (Alt+H) to show the photos on the board.
 
@@ -39,6 +40,7 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | E | [Salsa española](e/espanola.es.md) | [Classic brown sauce](e/espanola.en.md) | CC BY-SA 3.0 |
 | G | [Aliño goma-ae (sésamo para verduras)](g/goma-ae.es.md) | [Japanese sesame dressing for greens](g/goma-ae.en.md) | CC0 |
 | G | [Goma dare (salsa japonesa de sésamo)](g/goma-dare.es.md) | [Japanese sesame sauce](g/goma-dare.en.md) | CC BY-SA 3.0 |
+| G | [Guacamole](g/guacamole.es.md) | [Guacamole](g/guacamole.en.md) | CC BY 4.0 |
 | G | [Salsa para gyozas (gyoza no tare)](g/gyoza.es.md) | [Gyoza dipping sauce](g/gyoza.en.md) | CC BY-SA 4.0 |
 | I | [Salsa de queso Idiazábal](i/idiazabal.es.md) | [Idiazábal cheese sauce](i/idiazabal.en.md) | CC BY-SA 3.0 |
 | J | [Salsa al jerez](j/jerez.es.md) | [Sherry sauce](j/jerez.en.md) | CC BY-SA 4.0 |
@@ -50,15 +52,19 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | M | [Mojo de almendras](m/mojo-almendras.es.md) | [Canarian almond mojo](m/mojo-almendras.en.md) | CC BY 3.0 |
 | M | [Mojo picón (mojo rojo)](m/mojo-picon.es.md) | [Canarian red pepper sauce](m/mojo-picon.en.md) | CC BY 2.0 |
 | M | [Mojo verde](m/mojo-verde.es.md) | [Canarian green cilantro sauce](m/mojo-verde.en.md) | CC BY-SA 2.0 |
+| M | [Mole poblano](m/mole-poblano.es.md) | [Mole poblano](m/mole-poblano.en.md) | CC BY-SA 2.0 |
 | M | [Salsa al moscatel con pasas y piñones](m/moscatel.es.md) | [Muscat wine sauce with raisins and pine nuts](m/moscatel.en.md) | CC BY-SA 3.0 |
 | N | [Negi shio dare (salsa de cebolleta y sésamo)](n/negi-shio.es.md) | [Japanese scallion and sesame oil sauce](n/negi-shio.en.md) | CC BY-SA 2.0 |
 | P | [Salsa al Pedro Ximénez](p/pedro-ximenez.es.md) | [Pedro Ximénez sherry reduction](p/pedro-ximenez.en.md) | CC BY-SA 4.0 |
 | P | [Salsa en pepitoria](p/pepitoria.es.md) | [Almond, saffron and white wine sauce](p/pepitoria.en.md) | CC BY-SA 3.0 |
 | P | [Picada catalana](p/picada.es.md) | [Catalan nut and garlic paste](p/picada.en.md) | CC BY-SA 4.0 |
+| P | [Pico de gallo (salsa mexicana)](p/pico-de-gallo.es.md) | [Pico de gallo (fresh Mexican salsa)](p/pico-de-gallo.en.md) | CC BY 2.0 |
 | P | [Salsa pil-pil](p/pil-pil.es.md) | [Basque olive oil and salt cod emulsion](p/pil-pil.en.md) | CC BY 2.0 |
 | P | [Salsa a la pimienta](p/pimienta.es.md) | [Peppercorn brandy cream sauce](p/pimienta.en.md) | CC BY-SA 4.0 |
+| P | [Pipián verde](p/pipian.es.md) | [Green pumpkin seed sauce](p/pipian.en.md) | CC BY 2.0 |
 | P | [Salsa de piquillos](p/piquillo.es.md) | [Piquillo pepper cream sauce](p/piquillo.en.md) | Public domain |
 | P | [Ponzu (salsa japonesa de cítricos)](p/ponzu.es.md) | [Japanese citrus soy sauce](p/ponzu.en.md) | CC BY 2.0 |
+| R | [Salsa ranchera](r/ranchera.es.md) | [Ranchero sauce](r/ranchera.en.md) | CC BY-SA 4.0 |
 | R | [Salsa romesco](r/romesco.es.md) | [Catalan roasted pepper and nut sauce](r/romesco.en.md) | Public domain |
 | R | [Salsa rosa](r/rosa.es.md) | [Spanish cocktail sauce](r/rosa.en.md) | CC BY-SA 4.0 |
 | S | [Samfaina](s/samfaina.es.md) | [Catalan summer vegetable stew](s/samfaina.en.md) | Public domain |
@@ -68,6 +74,7 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | T | [Salsa teriyaki](t/teriyaki.es.md) | [Teriyaki sauce](t/teriyaki.en.md) | CC0 |
 | T | [Salsa de tinta de calamar](t/tinta.es.md) | [Squid ink sauce](t/tinta.en.md) | CC BY 2.0 |
 | T | [Tomate frito casero](t/tomate-frito.es.md) | [Homemade Spanish tomato sauce](t/tomate-frito.en.md) | CC BY 3.0 |
+| T | [Salsa verde de tomatillo](t/tomatillo.es.md) | [Green tomatillo salsa](t/tomatillo.en.md) | CC BY-SA 2.0 |
 | T | [Salsa tonkatsu con sésamo](t/tonkatsu.es.md) | [Tonkatsu sauce with sesame](t/tonkatsu.en.md) | CC BY 2.0 |
 | V | [Salsa verde](v/verde.es.md) | [Basque green parsley sauce](v/verde.en.md) | CC0 |
 | V | [Salsa al vermut blanco](v/vermut-blanco.es.md) | [Dry white vermouth sauce](v/vermut-blanco.en.md) | CC BY-SA 4.0 |

@@ -362,5 +362,47 @@
   "license": "CC BY 3.0",
   "license_url": "https://creativecommons.org/licenses/by/3.0",
   "artist": "Tamorlan"
+ },
+ "guacamole": {
+  "title": "File:Guacamole tradicional.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Guacamole_tradicional.jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "artist": "Jazz Guy from College Station, Texas, United States"
+ },
+ "mole-poblano": {
+  "title": "File:Mole Poblano.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mole_Poblano.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "Melissa Doroquez"
+ },
+ "pico-de-gallo": {
+  "title": "File:Mmm... Pico de Gallo (5923456035).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mmm..._Pico_de_Gallo_(5923456035).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "artist": "jeffreyw"
+ },
+ "pipian": {
+  "title": "File:Enchiladas de carnitas de pato. Salsa de pipián verde. (Puebla, Puebla).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Enchiladas_de_carnitas_de_pato._Salsa_de_pipi%C3%A1n_verde._(Puebla,_Puebla).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "artist": "Joselu Blanco"
+ },
+ "ranchera": {
+  "title": "File:Huevos rancheros.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Huevos_rancheros.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "1000b"
+ },
+ "tomatillo": {
+  "title": "File:Salsa verde.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Salsa_verde.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "stu_spivack"
  }
 }
