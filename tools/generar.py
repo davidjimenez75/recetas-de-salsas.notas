@@ -91,10 +91,11 @@ def readme():
     L = ["---", "id: recetas-de-salsas", "status: active", "tags:", "  - cooking", "  - recipes",
          "  - sauces", "title: recetas-de-salsas--Sauce recipes", "type: Index", "---",
          "# recetas-de-salsas--Sauce recipes", "",
-         "Sauce recipes: mostly **Spanish sauces**, plus some **Japanese**, mild **Mexican**, **Italian**, **French** and **Greek** ones. They are sorted into one "
+         "Sauce recipes: mostly **Spanish sauces**, plus some **Japanese**, mild **Mexican**, **Italian**, **French**, **Greek** and mild **Chinese** ones. They are sorted into one "
          "subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without "
          "the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese, Italian, French and Greek sauces keep their own name "
-         "(*goma dare* goes in `g/goma-dare`, *béarnaise* in `b/bearnaise`).", "",
+         "(*goma dare* goes in `g/goma-dare`, *béarnaise* in `b/bearnaise`), and so do Chinese ones with a well-known "
+         "name (*hoisin* goes in `h/hoisin`); the rest go under their Spanish name (*salsa agridulce* in `a/agridulce`).", "",
          "Each sauce has one note per language, with the same name and the language code before `.md`:", "",
          "- `<sauce>.es.md`: in Spain Spanish (`lang: es_ES`).",
          "- `<sauce>.en.md`: in US English (`lang: en_US`), with US measurements (cups, ounces, °F).", "",
@@ -119,6 +120,9 @@ def readme():
          "- **Greek:** "
          + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "grecia" in s["tags_es"])
          + " (tagged `grecia`).",
+         "- **Chinese, mild:** "
+         + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "china" in s["tags_es"])
+         + " (tagged `china` and `poco-picante`; none of them has chile).",
          "- **Drink or ingredient photos:** no free photo of the finished dish was found for "
          + ", ".join(f"*{s['es']['title']}*" for s in SALSAS if "La foto muestra" in s["es"]["intro"])
          + ", so their notes show the drink or main ingredient instead, and say so.",

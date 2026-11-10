@@ -537,5 +537,47 @@
   "license": "CC BY-SA 3.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
   "artist": "Nikodem Nijaki"
+ },
+ "agridulce": {
+  "title": "File:Flickr - Sweet and Sour Pork.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_Sweet_and_Sour_Pork.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "Alpha from Melbourne, Australia"
+ },
+ "char-siu": {
+  "title": "File:Soy sauce chicken, siu yuk and char siu in Hong Kong - 20130614.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Soy_sauce_chicken,_siu_yuk_and_char_siu_in_Hong_Kong_-_20130614.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "Wilfredor"
+ },
+ "hoisin": {
+  "title": "File:Sommerrolle mit Hoisin-Sauce 170305 AW.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sommerrolle_mit_Hoisin-Sauce_170305_AW.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Alice Wiegand"
+ },
+ "jengibre-cebolleta": {
+  "title": "File:Hainan Chicken, garlic rice, pickles, ginger scallion sauce, seasoned soy, chili sauce (31740963840).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hainan_Chicken,_garlic_rice,_pickles,_ginger_scallion_sauce,_seasoned_soy,_chili_sauce_(31740963840).jpg",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "artist": "T.Tseng"
+ },
+ "judias-negras": {
+  "title": "File:2015 1012 Preserved black beans douchi close-up.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2015_1012_Preserved_black_beans_douchi_close-up.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Takeaway"
+ },
+ "zhimajiang": {
+  "title": "File:Sesame paste.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sesame_paste.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "Fumikas Sagisavas"
  }
 }
