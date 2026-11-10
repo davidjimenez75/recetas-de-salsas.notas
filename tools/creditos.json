@@ -404,5 +404,89 @@
   "license": "CC BY-SA 2.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
   "artist": "stu_spivack"
+ },
+ "amatriciana": {
+  "title": "File:Bucatini allamatriciana.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bucatini_allamatriciana.jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "Popo le Chien"
+ },
+ "bearnaise": {
+  "title": "File:Béarnaise sauce with Tarragon garnish.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:B%C3%A9arnaise_sauce_with_Tarragon_garnish.jpeg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Alexander Guy"
+ },
+ "bechamel": {
+  "title": "File:2021 Sos beszamelowy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2021_Sos_beszamelowy.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Jacek Halicki"
+ },
+ "beurre-blanc": {
+  "title": "File:Purple asparagus in Beurre blanc sauce.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Purple_asparagus_in_Beurre_blanc_sauce.jpg",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "artist": "stu_spivack"
+ },
+ "carbonara": {
+  "title": "File:Spaghetti alla Carbonara.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_alla_Carbonara.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "artist": "Mattes Boch (Mboch on English Wikipedia)"
+ },
+ "hollandaise": {
+  "title": "File:Spargel sauce hollandaise.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spargel_sauce_hollandaise.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "artist": "Elya"
+ },
+ "mornay": {
+  "title": "File:モルネーソース.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:%E3%83%A2%E3%83%AB%E3%83%8D%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "赤犬"
+ },
+ "pesto": {
+  "title": "File:Pesto alla genovese.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pesto_alla_genovese.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "AlfonsoLucifredi"
+ },
+ "pomodoro": {
+  "title": "File:Fresh Tomato Sauce (Unsplash).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Fresh_Tomato_Sauce_(Unsplash).jpg",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artist": "Dennis Klein klein2"
+ },
+ "puttanesca": {
+  "title": "File:Spaghetti alla Puttanesca.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Spaghetti_alla_Puttanesca.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Kai Olav Fredriksen"
+ },
+ "ragu": {
+  "title": "File:Ragu.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ragu.jpg",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artist": "Erikatrioschi"
+ },
+ "veloute": {
+  "title": "File:Making White sauce 5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Making_White_sauce_5.jpg",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artist": "Roozitaa"
  }
 }

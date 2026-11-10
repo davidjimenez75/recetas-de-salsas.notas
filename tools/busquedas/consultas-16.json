@@ -1,0 +1,14 @@
+{
+ "pesto": ["pesto alla genovese", "pesto genovese mortar", "pesto basil"],
+ "ragu": ["ragù alla bolognese", "tagliatelle al ragù", "ragu bolognese"],
+ "carbonara": ["spaghetti alla carbonara", "carbonara pasta", "carbonara"],
+ "amatriciana": ["bucatini all'amatriciana", "amatriciana", "spaghetti amatriciana"],
+ "puttanesca": ["spaghetti alla puttanesca", "puttanesca", "puttanesca sauce"],
+ "pomodoro": ["salsa di pomodoro", "spaghetti al pomodoro", "tomato sauce basil pasta"],
+ "bechamel": ["béchamel sauce", "bechamel", "salsa bechamel"],
+ "mornay": ["mornay sauce", "sauce Mornay", "croque monsieur mornay"],
+ "veloute": ["velouté sauce", "sauce velouté", "veloute"],
+ "hollandaise": ["hollandaise sauce", "sauce hollandaise asparagus", "eggs benedict hollandaise"],
+ "bearnaise": ["béarnaise sauce", "sauce béarnaise steak", "bearnaise"],
+ "beurre-blanc": ["beurre blanc", "beurre blanc sauce fish", "sauce beurre blanc"]
+}
