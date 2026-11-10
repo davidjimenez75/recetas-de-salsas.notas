@@ -10,7 +10,7 @@ type: Index
 ---
 # recetas-de-salsas--Sauce recipes
 
-Sauce recipes, starting with **Spanish sauces**. They are sorted into one subfolder per letter (`a/`, `b/`… `x/`), using the first letter of the sauce's own name in Spanish, without the word «salsa» (so *salsa brava* goes in `b/brava`).
+Sauce recipes: mostly **Spanish sauces**, plus some **Japanese** ones. They are sorted into one subfolder per letter (`a/`, `b/`, `c/`…), using the first letter of the sauce's own name, without the word «salsa» (so *salsa brava* goes in `b/brava`). Japanese sauces keep their Japanese name (*goma dare* goes in `g/goma-dare`).
 
 Each sauce has one note per language, with the same name and the language code before `.md`:
 
@@ -20,7 +20,8 @@ Each sauce has one note per language, with the same name and the language code b
 Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce>.jpg`). Only freely licensed photos from Wikimedia Commons are used (public domain, CC0, CC BY or CC BY-SA), and each recipe credits the author and license.
 
 - **Vegan and alcohol-free:** *Salsa de almendras*, *Lactonesa (mahonesa vegana)*, *Alioli de membrillo (allioli de codony)*, *Salsa de piquillos*, *Salsa de setas vegana* (tagged `vegana` and `sin-alcohol`).
-- **Drink or ingredient photos:** no free photo of the finished dish was found for *Salsa de almendras*, *Salsa a la cerveza*, *Salsa al Pedro Ximénez*, *Salsa de piquillos*, *Salsa al vermut blanco*, *Salsa al vermut rojo*, so their notes show the drink or main ingredient instead, and say so.
+- **Japanese, with sesame or peanut:** *Salsa japonesa de cacahuete*, *Aliño goma-ae (sésamo para verduras)*, *Goma dare (salsa japonesa de sésamo)*, *Salsa para gyozas (gyoza no tare)*, *Salsa yakiniku (yakiniku no tare)* (tagged `japon`).
+- **Drink or ingredient photos:** no free photo of the finished dish was found for *Salsa de almendras*, *Salsa japonesa de cacahuete*, *Salsa a la cerveza*, *Salsa al Pedro Ximénez*, *Salsa de piquillos*, *Salsa al vermut blanco*, *Salsa al vermut rojo*, so their notes show the drink or main ingredient instead, and say so.
 - **Hidden in Notas-Rust:** every photo is marked `color=hidden` in its folder's `desktop.ini`, so the board shows only the notes and the photo appears inside them. Use «Mostrar las ocultas» (Alt+H) to show the photos on the board.
 
 | Letter | Español | English | Photo license |
@@ -32,9 +33,13 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | A | [Almogrote gomero](a/almogrote.es.md) | [La Gomera aged cheese spread](a/almogrote.en.md) | CC BY-SA 2.0 |
 | B | [Salsa al brandy](b/brandy.es.md) | [Brandy mushroom cream sauce](b/brandy.en.md) | CC BY 2.0 |
 | B | [Salsa brava](b/brava.es.md) | [Spicy paprika sauce](b/brava.en.md) | CC BY 2.0 |
+| C | [Salsa japonesa de cacahuete](c/cacahuete.es.md) | [Japanese peanut sauce](c/cacahuete.en.md) | CC BY-SA 3.0 |
 | C | [Salsa a la cerveza](c/cerveza.es.md) | [Beer braising sauce](c/cerveza.en.md) | CC BY-SA 4.0 |
 | C | [Salsa chilindrón](c/chilindron.es.md) | [Red pepper, tomato and ham sauce](c/chilindron.en.md) | CC BY-SA 3.0 |
 | E | [Salsa española](e/espanola.es.md) | [Classic brown sauce](e/espanola.en.md) | CC BY-SA 3.0 |
+| G | [Aliño goma-ae (sésamo para verduras)](g/goma-ae.es.md) | [Japanese sesame dressing for greens](g/goma-ae.en.md) | CC0 |
+| G | [Goma dare (salsa japonesa de sésamo)](g/goma-dare.es.md) | [Japanese sesame sauce](g/goma-dare.en.md) | CC BY-SA 3.0 |
+| G | [Salsa para gyozas (gyoza no tare)](g/gyoza.es.md) | [Gyoza dipping sauce](g/gyoza.en.md) | CC BY-SA 4.0 |
 | J | [Salsa al jerez](j/jerez.es.md) | [Sherry sauce](j/jerez.en.md) | CC BY-SA 4.0 |
 | L | [Lactonesa (mahonesa vegana)](l/lactonesa.es.md) | [Vegan soy milk mayonnaise](l/lactonesa.en.md) | CC0 |
 | M | [Mahonesa](m/mahonesa.es.md) | [Spanish mayonnaise](m/mahonesa.en.md) | CC BY 2.0 |
@@ -63,5 +68,6 @@ Both use `type: Recipe`. The photo sits next to them with the same name (`<sauce
 | V | [Salsa al vino tinto](v/vino-tinto.es.md) | [Spanish red wine braising sauce](v/vino-tinto.en.md) | CC BY-SA 4.0 |
 | V | [Salsa vizcaína](v/vizcaina.es.md) | [Biscay-style red pepper and onion sauce](v/vizcaina.en.md) | CC BY-SA 4.0 |
 | X | [Salsa de xató (salvitxada)](x/xato.es.md) | [Catalan dried pepper and nut dressing](x/xato.en.md) | CC BY-SA 4.0 |
+| Y | [Salsa yakiniku (yakiniku no tare)](y/yakiniku.es.md) | [Japanese barbecue sauce](y/yakiniku.en.md) | CC BY 2.0 |
 
 The recipe texts are original. The photos keep their own licenses, as stated in each recipe.
