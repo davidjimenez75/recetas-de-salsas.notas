@@ -1,0 +1,7 @@
+{
+ "jerez": ["riñones al jerez", "salsa al jerez", "pollo al jerez", "sherry sauce"],
+ "pedro-ximenez": ["carrilleras al Pedro Ximénez", "Pedro Ximénez salsa", "solomillo Pedro Ximénez", "Pedro Ximénez"],
+ "vino-tinto": ["carrilleras al vino tinto", "carrilleras de cerdo", "estofado vino tinto", "red wine sauce"],
+ "sidra": ["merluza a la sidra", "pescado a la sidra", "a la sidra Asturias"],
+ "sidra-manzana": ["lomo a la sidra", "cerdo a la sidra", "chorizo a la sidra", "cider sauce pork"]
+}

@@ -4,3 +4,7 @@ Thumbs.db
 ~$*
 *.tmp
 Notas-Rust.toml
+
+# tools: search thumbnails and Python cache
+tools/candidatos/
+__pycache__/
