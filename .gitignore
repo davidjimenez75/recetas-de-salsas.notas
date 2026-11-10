@@ -1,0 +1,6 @@
+# notas-rust
+Thumbs.db
+.DS_Store
+~$*
+*.tmp
+Notas-Rust.toml
